@@ -1,0 +1,7 @@
+C:\Users\erikf\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.exe.config
+C:\Users\erikf\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.exe
+C:\Users\erikf\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.pdb
+C:\Users\erikf\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csprojAssemblyReference.cache
+C:\Users\erikf\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.CoreCompileInputs.cache
+C:\Users\erikf\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.exe
+C:\Users\erikf\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.pdb
